@@ -24,4 +24,4 @@ upload your repo URL the form https://forms.gle/abSvoEKzhmNV3Ysi9
 
 # Reading 
 Read this blog
-https://towardsdatascience.com/time-series-introduction-7484bc25739a
+[https://towardsdatascience.com/a-thorough-guide-to-time-series-analysis-5439c63bc9c5/](https://towardsdatascience.com/a-thorough-guide-to-time-series-analysis-5439c63bc9c5/)
