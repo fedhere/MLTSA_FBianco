@@ -1,14 +1,26 @@
 # Homework 1
 
 
-Please work in groups! 3-5 people is the best size to make sure you get help and work collaboratively, but everyone does something. 
+## Objective: familiarize with Github 
+- repositories, 
+- forking, 
+- cloning, 
+- merging, 
+- requesting pulls, 
+- solving (easy) conflicts.
 
-# ASSIGNED READING:
 
-Assignment 1: Linear Regression
-A skeleton notebook is here
+# 1: Create a MLTSA repo
+- Make an account on GitHub if you do not have one yet
 
-Follow the notebook instructions
+- Create a repository called MLTSA25_\<firstinitialLastname\>
+upload your repo URL the form https://forms.gle/abSvoEKzhmNV3Ysi9 
+  
+# 2: Follow the instructions in githubCreateRepoCmds.md
+
+*Remember to get on the class slack: *
+
+
 
 # Reading 
 Read this blog
