@@ -27,4 +27,3 @@ Read this blog
 
 [https://www.sigmacomputing.com/resources/learn/what-is-time-series-analysis](https://www.sigmacomputing.com/resources/learn/what-is-time-series-analysis)
 
-[https://towardsdatascience.com/a-thorough-guide-to-time-series-analysis-5439c63bc9c5/](https://towardsdatascience.com/a-thorough-guide-to-time-series-analysis-5439c63bc9c5/)
