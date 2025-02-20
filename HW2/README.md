@@ -1,15 +1,19 @@
-# Homework 1
 
+# ASSIGNED READING:   
 
-Please work in groups! 3-5 people is the best size to make sure you get help and work collaboratively, but everyone does something. 
+Correlation is not Causation
 
-# ASSIGNED READING:
+https://www.chi2innovations.com/blog/discover-stats-blog-series/graphs-prove-correlation-not-causation/
 
 Assignment 1: Linear Regression
 A skeleton notebook is here
 
 Follow the notebook instructions
 
-# Reading 
-Read this blog
-https://towardsdatascience.com/time-series-introduction-7484bc25739a
+# Homework 1
+
+
+Please work in groups! 3-5 people is the best size to make sure you get help and work collaboratively, but everyone does something. 
+
+Join #HW2 on slack
+
