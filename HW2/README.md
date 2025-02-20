@@ -17,3 +17,4 @@ Please work in groups! 3-5 people is the best size to make sure you get help and
 
 Join #HW2 on slack
 
+See instructions in notebook [FittingLineToGRBAfterglows_instructions.ipynb](https://github.com/fedhere/MLTSA_FBianco/blob/main/HW2/FittingLineToGRBAfterglows_instructions.ipynb)
