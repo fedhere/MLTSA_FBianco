@@ -8,7 +8,8 @@ NOTE: there is a lot of optional stuff there! Prophet allows you to include exog
 
 
 
-Before class
+Before class:
+
 Please register for an account at kaggle.com, all the work we will do together in class as well as your next homework will require it. To register do the following:
 
 ##Kaggle and google drive access instructions
