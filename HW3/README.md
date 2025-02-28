@@ -34,7 +34,7 @@ Make sure that at the end, you have an account that you can log in with, and be 
 <img width="855" alt="Screen Shot 2023-10-21 at 1 23 57 PM" src="https://github.com/fedhere/FDSFE_FBianco/assets/1696902/0de116d5-56c2-4024-877d-518972de8a16">
 
 - open google drive at https://drive.google.com/drive/u/0/my-drive in your browser
-- upload (e.g. drag and drop) the kaggle.json file from your laptop to the drive **into a folder called .kaggle**
+- upload (e.g. drag and drop) the kaggle.json file from your laptop to the drive **into a folder called .kaggle** (notice that it starts with a "." - that makes it a hidden file which you would not see if you for example ran a bash `ls' command to list files in a folder. Its a very minimal level of cybersecurity)
 
   <img width="1469" alt="Screen Shot 2023-10-21 at 1 26 51 PM" src="https://github.com/fedhere/FDSFE_FBianco/assets/1696902/c7e27015-34ad-41a8-9f0f-5a816ff5c504">
 
