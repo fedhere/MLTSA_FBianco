@@ -29,12 +29,12 @@ Make sure that at the end, you have an account that you can log in with, and be 
   <img width="627" alt="Screen Shot 2023-10-21 at 1 28 43 PM" src="https://github.com/fedhere/FDSFE_FBianco/assets/1696902/2d92102f-79ab-4eb7-ae86-f71ca14d706a">
 
 - scroll down to API and click create New API Token. This will download a json file on your computer
-- 
+  
 <img width="654" alt="Screen Shot 2023-10-21 at 1 24 10 PM" src="https://github.com/fedhere/FDSFE_FBianco/assets/1696902/8ab3ae90-9c4d-4ee9-8442-b28dce975fd4">
 <img width="855" alt="Screen Shot 2023-10-21 at 1 23 57 PM" src="https://github.com/fedhere/FDSFE_FBianco/assets/1696902/0de116d5-56c2-4024-877d-518972de8a16">
 
 - open google drive at https://drive.google.com/drive/u/0/my-drive in your browser
-- upload (e.g. dragna and drop) the kaggle.json file from your laptop to the drive
+- upload (e.g. drag and drop) the kaggle.json file from your laptop to the drive **into a folder called .kaggle**
 
   <img width="1469" alt="Screen Shot 2023-10-21 at 1 26 51 PM" src="https://github.com/fedhere/FDSFE_FBianco/assets/1696902/c7e27015-34ad-41a8-9f0f-5a816ff5c504">
 
@@ -46,7 +46,7 @@ from google.colab import drive
 drive.mount("/content/gdrive")
 
 # this gets you to your drive folder
-cd gdrive/My\ Drive/
+cd gdrive/My\ Drive/.kaggle
 
 # this makes sure the file is there: this cell should return "kaggle.json"
 ls kaggle.json
