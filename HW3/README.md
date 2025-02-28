@@ -55,9 +55,10 @@ ls kaggle.json
 !chmod 600 kaggle.json
 
 # this reads in the file and stores it into the system variables of your colab sessions which allows you to connect programmatically to the kaggle platform
+
 envs = json.load(open("kaggle.json", "r"))
 os.environ["KAGGLE_USERNAME"] = envs['username']
-os.environ["KAGGLE_KEY"] = "e60b57c215e877e01a22375a3058eec1"#envs['key']
+os.environ["KAGGLE_KEY"] = envs['key']
 ```
 
 
