@@ -1,14 +1,19 @@
+
+# Reading
+Sorry ARIMA, but I’m Going Bayesian
+
+https://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/
+
 # Homework 3
 
-continuing on with the stock market (if anyone of you gets rich, I expect a cut!) use ARMA and ARIMA models to forecast stock price.
+Working with the stock market data we used in class (if anyone of you gets rich, I expect a cut!) use ARIMA models to forecast stock price.
 Follow the notebook instructions [ARIMA_instructions.ipynb](https://github.com/fedhere/MLTSA_FBianco/blob/main/HW3/ARIMA_instructions.ipynb)
+NOTE: to get the data you need a Kaggle account! look below to see how to integrate your kaggle credentials into a colab notebook
+
 
 Perform an autoregressive model analysis of Uber rides data with Facebook Prophet, notebook [berprophet_instructions](https://github.com/fedhere/MLTSA_FBianco/blob/main/HW3/berprophet_instructions.ipynb}
 NOTE: there is a lot of optional stuff there! Prophet allows you to include exogenous variables in addition to autoregressive elements! 
 
-
-
-Before class:
 
 Please register for an account at kaggle.com, all the work we will do together in class as well as your next homework will require it. To register do the following:
 
@@ -61,10 +66,5 @@ os.environ["KAGGLE_USERNAME"] = envs['username']
 os.environ["KAGGLE_KEY"] = envs['key']
 ```
 
-
-# Reading
-Sorry ARIMA, but I’m Going Bayesian
-
-https://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/
 
 
