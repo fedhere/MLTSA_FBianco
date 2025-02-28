@@ -12,7 +12,7 @@ Before class:
 
 Please register for an account at kaggle.com, all the work we will do together in class as well as your next homework will require it. To register do the following:
 
-##Kaggle and google drive access instructions
+## Kaggle and google drive access instructions
 go to kaggle.com
 
 click on “Register” in the upper right corner select either Register with Google, or Register with your email (it’s up to you)
